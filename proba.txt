@@ -11,3 +11,4 @@ test with morgan from kotunec with tortoise
 
 test za zapazvane na parola
 vtori test za parola
+i sega treti
