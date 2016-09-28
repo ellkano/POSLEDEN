@@ -8,3 +8,5 @@ test with morgan from kotunec with bash
 
 
 test with morgan from kotunec with tortoise
+
+test za zapazvane na parola
